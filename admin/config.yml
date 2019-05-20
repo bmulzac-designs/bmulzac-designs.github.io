@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: bmulzac-designs/bmulzac-designs.github.io
+  repo: bmulzac-designs/bmulzac-designs
   branch: master
   site_domain: affectionate-hopper-3ad4c0.netlify.com
 
