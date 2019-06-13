@@ -9,7 +9,7 @@ media_folder: "static/media/images/uploads"
 public_folder: "/media/images/uploads"
 collections:
   - name: "products"
-    label: "Products"
+    label: "My Products"
     folder: "content/products"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
